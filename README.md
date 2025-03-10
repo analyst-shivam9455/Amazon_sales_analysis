@@ -4,7 +4,7 @@
 This project analyzes Amazon's sales data to uncover key trends, product performance, and customer behavior. Using **Power BI and Python**, we explore sales by category, shipping trends, regional sales distribution, and order fulfillment status to derive actionable business insights.
 
 ## Dashboard Link :
-  Link:- https://app.powerbi.com/view?r=eyJrIjoiZTE4YTNlNDgtZjc5Ni00ZWQwLTk2MjktYTA3MTg4NjQzMThlIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
+  Link:- [https://app.powerbi.com/view?r=eyJrIjoiZTE4YTNlNDgtZjc5Ni00ZWQwLTk2MjktYTA3MTg4NjQzMThlIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9](https://app.powerbi.com/view?r=eyJrIjoiZTE4YTNlNDgtZjc5Ni00ZWQwLTk2MjktYTA3MTg4NjQzMThlIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9)
 ## Tools & Technologies Used
 - **Power BI** → Data visualization and dashboard creation
 - **Python (Pandas, Matplotlib, Seaborn)** → Data analysis and preprocessing
